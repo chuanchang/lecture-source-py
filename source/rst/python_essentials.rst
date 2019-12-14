@@ -658,7 +658,7 @@ In particular
 We already :ref:`gave an example <test_program_6>` of how straightforward it is to pass a function to
 a function.
 
-Note that a function can have arbitrarily many ``return`` statements (including zero).
+Note that a function can have arbitrarily many ``return`` statements (including zero statements).
 
 Execution of the function terminates when the first return is hit, allowing
 code like the following example
